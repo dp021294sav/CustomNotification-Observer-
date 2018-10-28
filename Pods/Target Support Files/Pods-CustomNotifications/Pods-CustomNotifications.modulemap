@@ -1,0 +1,6 @@
+framework module Pods_CustomNotifications {
+  umbrella header "Pods-CustomNotifications-umbrella.h"
+
+  export *
+  module * { export * }
+}
